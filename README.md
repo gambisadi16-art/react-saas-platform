@@ -26,7 +26,7 @@ Displays the hero section, navigation bar, and introduction to the platform.
 
 Highlights the core features and benefits offered by the platform.
 
-![Features Section](<img width="1888" height="913" alt="image" src="https://github.com/user-attachments/assets/8e5e079a-cda4-4ff4-8508-b62c5f624f5e" />
+[Features Section](<img width="1888" height="913" alt="image" src="https://github.com/user-attachments/assets/8e5e079a-cda4-4ff4-8508-b62c5f624f5e" />
 
 )
 
@@ -34,14 +34,14 @@ Highlights the core features and benefits offered by the platform.
 
 Showcases multiple pricing tiers designed for different user needs.
 
-![Pricing Plans](<img width="1890" height="895" alt="image" src="https://github.com/user-attachments/assets/b5167d03-3588-4620-beae-9de870685cc9" />)
+[Pricing Plans]<img width="1888" height="913" alt="Screenshot 2026-06-08 102354" src="https://github.com/user-attachments/assets/acd0c348-174b-469d-a0ee-6c072ec22abb" />
+
 
 ### Contact Section
 
 Provides a clear call-to-action and contact area for potential customers.
 
-![Contact Section](<img width="1888" height="904" alt="image" src="https://github.com/user-attachments/assets/8cad3158-bcb3-4f61-861b-4d8c78d3237d" />
-)
+[Contact Section]<img width="1888" height="904" alt="Screenshot 2026-06-08 102427" src="https://github.com/user-attachments/assets/00deccb6-3d63-486e-ba6b-6a8312c0b311" />
 
 ## Technologies Used
 
@@ -51,5 +51,5 @@ Provides a clear call-to-action and contact area for potential customers.
 - JavaScript (ES6+)
 
 ## Purpose
-
+This project was created to demonstrate modern front-end development practices, responsive web design, component-based architecture, and user-focused UI/UX design using React.
 This project was created to demonstrate modern front-end development practices, responsive web design, component-based architecture, and user-focused UI/UX design using React.
